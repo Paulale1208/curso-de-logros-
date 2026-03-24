@@ -6,4 +6,6 @@ print(nombre_usuario)
 print(edad)                   
 print(hobbie)                 
 
-print(f"nombre de usuario"{paul} "edad" {17} "hobbie" {futbol}  )
+print(f"nombre de usuario {nombre_usuario} mi edad es {edad} mi hobbie es {hobbie} " ) 
+
+nombre_usuario=("¿cual es tu nombre?") 
